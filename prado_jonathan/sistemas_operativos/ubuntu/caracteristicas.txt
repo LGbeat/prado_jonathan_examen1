@@ -1,0 +1,3 @@
+caracteristicas de ubuntu: es un sistema de lixun para servidores
+ es open soure de codigo abierto
+
